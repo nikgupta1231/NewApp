@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">App for Ecommerce</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="brand_name">Brand Name</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="description">Description</string>
+    <string name="discount">Discount</string>
+    <string name="price">Price</string>
+    <string name="product_category">Product Category</string>
+    <string name="product_name">Product Name</string>
+    <string name="sell">Sell</string>
+    <string name="seller_name">Seller Name</string>
+    <string name="enter_quantity">Enter Quantity</string>
+</resources>
